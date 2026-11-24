@@ -1,0 +1,8 @@
+# Ignore everything by default
+/*
+
+# Keep .gitignore itself
+!/.gitignore
+
+# Track the code directory
+!/code/
